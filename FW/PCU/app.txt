@@ -1,3 +1,0 @@
-app.hex
-0BF5
-6E
